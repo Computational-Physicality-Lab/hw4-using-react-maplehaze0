@@ -1,0 +1,17 @@
+.nav-item {
+  font-family: StarWars;
+}
+
+.item {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.logo {
+  padding-left: 60px;
+}
+
+.cart {
+  padding-right: 50px;
+  border-radius: 10px;
+}

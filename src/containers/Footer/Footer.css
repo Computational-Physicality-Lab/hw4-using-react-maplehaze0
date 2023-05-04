@@ -1,0 +1,46 @@
+.FooterContainer {
+  width: 120vw;
+  height: 8vh;
+  display: flex;
+  margin-top: 10px;
+  background-color: rgb(197, 18, 48);
+}
+
+.Footer {
+  margin-bottom: 20px;
+}
+
+.FooterContainer {
+  margin-left: -65px;
+  margin-right: -70px;
+}
+
+.ButtonContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 12px;
+  padding-left: 20px;
+}
+
+p {
+  margin-top: 6px;
+}
+/* .LogoContainer {
+  display: flex;
+  justify-content: center;
+} */
+
+/* .LogoContainer img {
+  height: 50px;
+} */
+
+
+
+
+
+.item {
+  display: flex;
+  padding-right: 20px;
+  padding-left: 80px;
+  color: white;
+}

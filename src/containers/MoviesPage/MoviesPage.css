@@ -1,0 +1,24 @@
+img.scotty {
+    /* position */
+    /* position: absolute; */
+    /* left: 35%; */
+    margin-left: 120px;
+    /* size */
+    width: 1000px;
+    height: 1000px;
+
+    /* style */
+    opacity: 0.3;
+}
+p.nono {
+
+    /* position */
+    position: absolute;
+    bottom: 10%;
+    left: 27%;
+
+    /* style */
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.65);
+
+}

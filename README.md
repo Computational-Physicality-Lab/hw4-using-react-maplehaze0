@@ -1,3 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wH3jFylN)
-# hw4-using-react
-This is the starter code of [2023-Programming User Interface Homework](https://hackmd.io/@akairisu/ByGFeGdZh)
+# b09204035 李明翰 作業四
+
+網址：
+
+與作業一不同的地方：使用會讓程式碼更簡潔，並且可以把一個大程式分成好幾個小程式，讓程式更好維護。
+雖然有這個優點，但要使多個小程式之間傳遞存取的資料與函式，就要使用全域變數，這樣會讓程式碼變得複雜，需要經過更多了時間理解原理才能創造出更好維護的程式。
